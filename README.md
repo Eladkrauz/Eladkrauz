@@ -18,7 +18,10 @@
 </p>
 
 # My Latest Academic Project 🧑🏻‍💻
-<a href="https://github.com/Eladkrauz/GoNatureProject" target="blank">GoNature</a> Project
+## <a href="https://github.com/Eladkrauz/GoNatureProject" target="blank">GoNature</a> Project - A national park franchise management system</br>
+### - Controlling park capacities and reservations by customers</br>
+### - Provides management and control capabilities to officials</br>
+### - Provides tools like park control, reports generating, etc.</br>
 
 # Languages and Tools :computer:
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=eclipse&logoColor=ffdd54)</br>

@@ -1,8 +1,6 @@
 # Hello There! :smile:
-### My name is Elad Krauz and I am a 3rd-year software engineering student at Braude Academic College.<br>Currently working as an exercise group instructor on “Intro to Systems Programming” course in C language at my college.
+### My name is Elad Krauz and I am a 3rd-year software engineering student at Braude College of Engineering.<br>Currently working as an educational instructor on “Intro to Systems Programming” course in C language in my college.
 ### Technology is my passion, and I'm excited to take my first steps into the industry. I'm eager to learn, grow, and contribute to meaningful projects, take on new challenges and collaborate with others.
-
-# More Info About Me <a href="https://eladkrauz.github.io/CV/" target="blank">Here</a>
 
 # Socials 🌐
 <p align="left">
@@ -18,10 +16,11 @@
 </p>
 
 # My Latest Academic Project 🧑🏻‍💻
-## <a href="https://github.com/Eladkrauz/GoNatureProject" target="blank">GoNature</a> Project - A national park franchise management system</br>
+## <a href="https://github.com/Eladkrauz/GoNatureProject" target="blank">GoNature</a> Project - A national park franchise management system 🌲</br>
 ### - Controlling park capacities and reservations by customers</br>
-### - Provides management and control capabilities to officials</br>
-### - Provides tools like park control, reports generating, etc.</br>
+### - Providing management and control capabilities to officials</br>
+### - Providing tools like park control, reports generating, etc.</br>
+### - Using tools and frameworks like JavaFX, JDBC and OCSF
 
 # Languages and Tools :computer:
 ![Java](https://img.shields.io/badge/java-3670A0?style=for-the-badge&logo=eclipse&logoColor=ffdd54)</br>

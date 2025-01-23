@@ -16,6 +16,12 @@
 </p>
 
 # My Latest Academic Projects 🧑🏻‍💻
+## <a href="https://github.com/YourUsername/IDEA-OFB-Schnorr-ECDH" target="blank">IDEA in OFB with Schnorr and ECDH</a> Project - A secure encryption and signature system 🔒</br>
+### - Implements the IDEA encryption algorithm in Output Feedback (OFB) mode.</br>
+### - Integrates Schnorr signature for data authentication and integrity.</br>
+### - Utilizes ECDH for secure key exchange and enhanced communication security.</br>
+### - Built with a focus on cryptographic research and practical applications.</br>
+
 ## <a href="https://github.com/Eladkrauz/CryptoNews" target="blank">Crypto News</a> - A Cryptocurrency news aggregator 🪙</br>
 ### - Aggregates and displays the latest cryptocurrency news from multiple sources.</br>
 ### - Built with ReactJS, Tailwind CSS, JavaScript, and HTML, using dynamic rendering for a smooth user experience.</br>

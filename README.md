@@ -28,7 +28,7 @@
 ### - Utilizes ECDH for secure key exchange and enhanced communication security.</br>
 ### - Built with a focus on cryptographic research and practical applications.</br>
 
-## <a href="https://github.com/Eladkrauz/CryptoNews" target="blank">Crypto News</a> - A Cryptocurrency news aggregator 🪙</br>
+## <a href="https://github.com/Eladkrauz/CryptoNews" target="blank">Crypto News</a> - A Cryptocurrency News Aggregator 🪙</br>
 ### - Aggregates and displays the latest cryptocurrency news from multiple sources.</br>
 ### - Built with ReactJS, Tailwind CSS, JavaScript, and HTML, using dynamic rendering for a smooth user experience.</br>
 ### - Features API integration and a SPA architecture for efficient and responsive updates.

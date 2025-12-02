@@ -30,7 +30,8 @@
 
 ## <a href="https://github.com/Eladkrauz/CryptoNews" target="blank">Crypto News</a> - A Cryptocurrency News Aggregator 🪙</br>
 ### - Aggregates and displays the latest cryptocurrency news from multiple sources.</br>
-### - Built with ReactJS, Tailwind CSS, JavaScript, and HTML, using dynamic rendering for a smooth user experience.</br>
+### - Built with ReactJS, Tailwind CSS, JavaScript, and HTML.</br>
+### - Uses a dynamic rendering approach for a smooth user experience.</br>
 ### - Features API integration and a SPA architecture for efficient and responsive updates.
 
 ## <a href="https://github.com/Eladkrauz/GoNatureProject" target="blank">GoNature</a> - A National Park Franchise Management System 🌲</br>

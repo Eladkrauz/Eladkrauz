@@ -1,5 +1,5 @@
 # Hello There! :smile:
-### My name is Elad Krauz and I am a 4th-year software engineering student at Braude College of Engineering.<br>Currently working as a software developer, and also as an educational instructor in my college.
+### My name is Elad Krauz and I am a software engineer, currently working as a software developer in the field of communication algorithms and software derived radio (SDR).
 ### Technology is my passion, and I'm always eager to learn, grow, and contribute to meaningful projects, take on new challenges and collaborate with others.
 
 # Socials 🌐
